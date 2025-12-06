@@ -1,0 +1,18 @@
+html {
+    font-family: 'Roboto';
+}
+.header{
+    display:flex;
+    justify-content: space-between;
+}
+.cenbox{
+    display:flex;
+    justify-content: center;
+}
+.h2{
+    margin: 0 auto;
+}
+.imageblock{
+    display:flex;
+    justify-content:space-between
+}
