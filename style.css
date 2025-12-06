@@ -1,5 +1,9 @@
 html {
     font-family: 'Roboto';
+ 
+}
+*{
+ border: 2px solid red
 }
 .header{
     display:flex;
@@ -15,4 +19,6 @@ html {
 .imageblock{
     display:flex;
     justify-content:space-between
+}
+.bb{    display: flex;
 }
