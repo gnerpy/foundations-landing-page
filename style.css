@@ -29,6 +29,8 @@ html {
 .cenbox {
     
     padding-top: 50px;
+    display: flex;
+    flex-grow: 1;
 
 }
 
