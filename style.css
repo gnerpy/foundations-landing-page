@@ -1,24 +1,41 @@
 html {
     font-family: 'Roboto';
- 
 }
-*{
- border: 2px solid red
+
+* {
+    border: 2px solid red
 }
-.header{
-    display:flex;
+
+.header {
+    display: flex;
     justify-content: space-between;
+    background-color: #1f2937;
+    color: #f9faf8 ;
+    font-size: 24px;
+    padding-left: 150px;
+    padding-right: 150px;
 }
-.cenbox{
-    display:flex;
-    justify-content: center;
+#navbox a {
+    font-size: 18px;
+    color: #e5E7eB;
 }
-.h2{
+.cenbox {
+    display: flex;
+    justify-content:space-around;
+    padding-top: 50px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.h2 {
     margin: 0 auto;
 }
-.imageblock{
-    display:flex;
-    justify-content:space-between
+
+.imageblock {
+    display: flex;
+    justify-content: space-between
 }
-.bb{    display: flex;
+
+.bb {
+    display: flex;
 }
