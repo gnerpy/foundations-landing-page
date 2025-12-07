@@ -10,21 +10,26 @@ html {
     display: flex;
     justify-content: space-between;
     background-color: #1f2937;
-    color: #f9faf8 ;
+    color: #f9faf8;
     font-size: 24px;
     padding-left: 150px;
     padding-right: 150px;
 }
+
 #navbox a {
     font-size: 18px;
     color: #e5E7eB;
 }
-.cenbox {
-    display: flex;
-    justify-content:space-around;
-    padding-top: 50px;
+
+.card1 {
     padding-left: 150px;
     padding-right: 150px;
+}
+
+.cenbox {
+    
+    padding-top: 50px;
+
 }
 
 .h2 {
