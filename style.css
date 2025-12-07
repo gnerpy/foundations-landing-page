@@ -12,32 +12,53 @@ html {
     background-color: #1f2937;
     color: #f9faf8;
     font-size: 24px;
-    padding-left: 150px;
-    padding-right: 150px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 #navbox a {
     font-size: 18px;
     color: #e5E7eB;
+    margin-left :5px;
+}
+#header1 { 
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
 }
 
 .card1 {
-    padding-left: 150px;
-    padding-right: 150px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
-
 .cenbox {
     
     padding-top: 50px;
     display: flex;
     flex-grow: 1;
+    justify-content: space-between;
 
 }
-
+.b2{
+    display:inline;
+    width: 50%;
+}
+.b1{
+    display:inline;
+    width: 50%;
+}
 .h2 {
     margin: 0 auto;
 }
-
+.maintext{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.signup{
+    border-radius:4px;
+    background-color: #3882f6;
+    color: #f9faf8  ;
+}
 .imageblock {
     display: flex;
     justify-content: space-between
